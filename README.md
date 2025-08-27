@@ -33,8 +33,11 @@ A paper list of partially relevant video retrieval.
 
 - `ICME 2025` UEM: Uneven Event Modeling for Partially Relevant Video Retrieval [[Paper]](https://arxiv.org/abs/2506.00891) [[Code]](https://github.com/Sasa77777779/UEM)
 
-- `TOMM 2525` MGAKD: Multi-Grained Alignment with Knowledge Distillation for Partially Relevant Video Retrieval [[Paper]](https://dl.acm.org/doi/abs/10.1145/3716388)
+- `TOMM 25` MGAKD: Multi-Grained Alignment with Knowledge Distillation for Partially Relevant Video Retrieval [[Paper]](https://dl.acm.org/doi/abs/10.1145/3716388)
+ 
+- `ICCEA 25` Efficient Attention in Partially Relevant Video Retrieval: A Benchmarking Study on Accuracy-Efficiency Trade-Offs [[Paper]](https://ieeexplore.ieee.org/abstract/document/11103301)
 
+  
 - `Arxiv Preprint` MamFusion: Multi-Mamba with Temporal Fusion for Partially Relevant Video Retrieval [[Paper]](https://arxiv.org/abs/2506.03473) [[Code]](https://github.com/Vision-Multimodal-Lab-HZCU/MamFusion)
 
 - `Arxiv Preprint` Exploiting Inter-Sample Correlation and Intra-Sample Redundancy for Partially Relevant Video Retrieval [[Paper]](https://arxiv.org/pdf/2504.19637)
@@ -66,3 +69,4 @@ A paper list of partially relevant video retrieval.
 
 ## 2022
 - `ACMMM 2022` MS-SL: Partially Relevant Video Retrieval  [[Paper]](https://arxiv.org/abs/2208.12510) [[Code]](https://github.com/HuiGuanLab/ms-sl)
+
