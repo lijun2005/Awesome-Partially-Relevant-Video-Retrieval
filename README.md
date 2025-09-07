@@ -29,6 +29,8 @@ A paper list of partially relevant video retrieval.
 - `TMM 2025` AMDNet: Towards Efficient Partially Relevant Video Retrieval with Active Moment Discovering [[Paper]](https://arxiv.org/abs/2504.10920)
 [[Code]](https://github.com/songpipi/AMDNet)
 
+- `EMNLP 2025`: Enhancing Partially Relevant Video Retrieval with Robust Alignment Learning [[Paper]](https://arxiv.org/pdf/2509.01383)
+  
 - `EMNLP 2025 Findings` ProPy: Building Interactive Prompt Pyramids upon CLIP for Partially Relevant Video Retrieval [[Paper]](https://arxiv.org/abs/2508.19024) [[Code]](https://github.com/BUAAPY/ProPy)
 
 - `ICME 2025` UEM: Uneven Event Modeling for Partially Relevant Video Retrieval [[Paper]](https://arxiv.org/abs/2506.00891) [[Code]](https://github.com/Sasa77777779/UEM)
@@ -69,4 +71,5 @@ A paper list of partially relevant video retrieval.
 
 ## 2022
 - `ACMMM 2022` MS-SL: Partially Relevant Video Retrieval  [[Paper]](https://arxiv.org/abs/2208.12510) [[Code]](https://github.com/HuiGuanLab/ms-sl)
+
 
