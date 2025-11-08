@@ -20,6 +20,8 @@ A paper list of partially relevant video retrieval.
 - `ICCV 2025` ProtoPRVR: Prototypes are Balanced Units for Efficient and Effective Partially Relevant Video Retrieval
 [[Paper]](https://arxiv.org/abs/2504.13035)
 
+- `NeurIPS 2025` MSC-PRVR: Mitigating Semantic Collapse in Partially Relevant Video Retrieval
+[[Paper]](https://www.arxiv.org/abs/2510.27432)
 
 - `AAAI 2025` ARL: Ambiguity-Restrained Text-Video Representation Learning for Partially Relevant Video Retrieval
 [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/32252) [[Code]](https://github.com/gersys/ARL)
@@ -71,6 +73,7 @@ A paper list of partially relevant video retrieval.
 
 ## 2022
 - `ACMMM 2022` MS-SL: Partially Relevant Video Retrieval  [[Paper]](https://arxiv.org/abs/2208.12510) [[Code]](https://github.com/HuiGuanLab/ms-sl)
+
 
 
 
