@@ -31,7 +31,7 @@ A paper list of partially relevant video retrieval.
 - `TMM 2025` AMDNet: Towards Efficient Partially Relevant Video Retrieval with Active Moment Discovering [[Paper]](https://arxiv.org/abs/2504.10920)
 [[Code]](https://github.com/songpipi/AMDNet)
 
-- `EMNLP 2025`: Enhancing Partially Relevant Video Retrieval with Robust Alignment Learning [[Paper]](https://arxiv.org/pdf/2509.01383) [[Code]](https://github.com/zhanglong-ustc/RAL-PRVR)
+- `EMNLP 2025 Findings`: Enhancing Partially Relevant Video Retrieval with Robust Alignment Learning [[Paper]](https://arxiv.org/pdf/2509.01383) [[Code]](https://github.com/zhanglong-ustc/RAL-PRVR)
   
 - `EMNLP 2025 Findings` ProPy: Building Interactive Prompt Pyramids upon CLIP for Partially Relevant Video Retrieval [[Paper]](https://arxiv.org/abs/2508.19024) [[Code]](https://github.com/BUAAPY/ProPy)
 
