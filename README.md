@@ -46,6 +46,8 @@ A paper list of partially relevant video retrieval.
 
 - `Arxiv Preprint` Exploiting Inter-Sample Correlation and Intra-Sample Redundancy for Partially Relevant Video Retrieval [[Paper]](https://arxiv.org/pdf/2504.19637)
 
+- `Arxiv Preprint` Dual Learning with Dynamic Knowledge Distillation and Soft Alignment for Partially Relevant Video Retrieval [[Paper]](https://arxiv.org/abs/2510.12283) [[Code]](https://github.com/HuiGuanLab/DL-DKD)
+
 
 ## 2024
 - `AAAI 2024` 🤗 GMMFormer: Gaussian-Mixture-Model Based Transformer for Efficient Partially Relevant Video Retrieval [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/28389) [[Code]](https://github.com/huangmozhi9527/GMMFormer)
@@ -73,6 +75,7 @@ A paper list of partially relevant video retrieval.
 
 ## 2022
 - `ACMMM 2022` MS-SL: Partially Relevant Video Retrieval  [[Paper]](https://arxiv.org/abs/2208.12510) [[Code]](https://github.com/HuiGuanLab/ms-sl)
+
 
 
 
