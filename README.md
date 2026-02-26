@@ -7,10 +7,22 @@
 A paper list of partially relevant video retrieval.
 
 ## Table of Contents
+- [2026](#2026)
 - [2025](#2025)
 - [2024](#2024)
 - [2023](#2023)
 - [2022](#2022)
+
+## 2026
+- `CVPR 2026` 🤗 HLFormer: Enhancing Partially Relevant Video Retrieval with Hyperbolic Learning 
+  [[Paper]](https://arxiv.org/abs/2507.17402)  [[Code]](https://github.com/lijun2005/ICCV25-HLFormer)
+
+- `TIP 2026`  Bidirectional Cross-Modal Collaborative Alignment via Semantic-Guided Visual Embeddings for Partially Relevant Video Retrieval 
+  [[Paper]](https://ieeexplore.ieee.org/abstract/document/11370453)  [[Code]](https://github.com/cyanlll/BOA)
+
+- `CCF NCCA 2026` Dual-Grained Alignment with Dynamic Clip Modeling for Partially Relevant Video Retrieval
+  [[Paper]](https://link.springer.com/chapter/10.1007/978-981-95-5294-8_19#citeas)
+
 
 ## 2025
 
@@ -38,11 +50,14 @@ A paper list of partially relevant video retrieval.
 - `ICME 2025` UEM: Uneven Event Modeling for Partially Relevant Video Retrieval [[Paper]](https://arxiv.org/abs/2506.00891) [[Code]](https://github.com/Sasa77777779/UEM)
 
 - `TOMM 25` MGAKD: Multi-Grained Alignment with Knowledge Distillation for Partially Relevant Video Retrieval [[Paper]](https://dl.acm.org/doi/abs/10.1145/3716388)
- 
+
+- `ICME 25` Compositional Text-Modality Completion Model for Partially Relevant Video Retrieval [[Paper]](https://ieeexplore.ieee.org/abstract/document/11210161)
+
+- `ICME 25` MamFusion: Multi-Mamba with Temporal Fusion for Partially Relevant Video Retrieval [[Paper]](https://ieeexplore.ieee.org/abstract/document/11210166) [[Code]](https://github.com/Vision-Multimodal-Lab-HZCU/MamFusion)
+
 - `ICCEA 25` Efficient Attention in Partially Relevant Video Retrieval: A Benchmarking Study on Accuracy-Efficiency Trade-Offs [[Paper]](https://ieeexplore.ieee.org/abstract/document/11103301)
 
-  
-- `Arxiv Preprint` MamFusion: Multi-Mamba with Temporal Fusion for Partially Relevant Video Retrieval [[Paper]](https://arxiv.org/abs/2506.03473) [[Code]](https://github.com/Vision-Multimodal-Lab-HZCU/MamFusion)
+- `ICIPAI 25` Diffusion-driven key segment generation via progressive boundary optimization for partially relevant video retrieval [[Paper]](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13780/137800X/Diffusion-driven-key-segment-generation-via-progressive-boundary-optimization-for/10.1117/12.3072530.short)
 
 - `Arxiv Preprint` Exploiting Inter-Sample Correlation and Intra-Sample Redundancy for Partially Relevant Video Retrieval [[Paper]](https://arxiv.org/pdf/2504.19637)
 
@@ -75,6 +90,7 @@ A paper list of partially relevant video retrieval.
 
 ## 2022
 - `ACMMM 2022` MS-SL: Partially Relevant Video Retrieval  [[Paper]](https://arxiv.org/abs/2208.12510) [[Code]](https://github.com/HuiGuanLab/ms-sl)
+
 
 
 
