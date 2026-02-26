@@ -14,7 +14,7 @@ A paper list of partially relevant video retrieval.
 - [2022](#2022)
 
 ## 2026
-- `CVPR 2026` 🤗 HLFormer: Enhancing Partially Relevant Video Retrieval with Hyperbolic Learning 
+- `CVPR 2026` 🤗 Imagine Before Concentration: Diffusion-Guided Registers Enhance Partially Relevant Video Retrieval
   [[Paper]](https://arxiv.org/abs/2507.17402)  [[Code]](https://github.com/lijun2005/ICCV25-HLFormer)
 
 - `TIP 2026`  Bidirectional Cross-Modal Collaborative Alignment via Semantic-Guided Visual Embeddings for Partially Relevant Video Retrieval 
@@ -90,6 +90,7 @@ A paper list of partially relevant video retrieval.
 
 ## 2022
 - `ACMMM 2022` MS-SL: Partially Relevant Video Retrieval  [[Paper]](https://arxiv.org/abs/2208.12510) [[Code]](https://github.com/HuiGuanLab/ms-sl)
+
 
 
 
