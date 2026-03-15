@@ -6,6 +6,7 @@
 
 A paper list of partially relevant video retrieval.
 
+:star: If Awesome-PRVR is helpful to your  projects, please help star this repo. Thanks! :hugs:
 ## Table of Contents
 - [2026](#2026)
 - [2025](#2025)
