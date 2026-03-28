@@ -23,6 +23,9 @@ A paper list of partially relevant video retrieval.
 
 - `AAAI 2026`  A3PRVR: Action-and-object Aware Alignment for Partially Relevant Video Retrieval 
   [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/37271)  [[Code]](https://github.com/chuanshen-chen/A3PRVR)
+
+- `ICME 2026`  KDC-Net: Knowledge-Refined Dual Context-Aware Network for Partially Relevant Video Retrieval 
+  [[Paper]](https://arxiv.org/abs/2603.23902)  
   
 - `CCF NCCA 2026` Dual-Grained Alignment with Dynamic Clip Modeling for Partially Relevant Video Retrieval
   [[Paper]](https://link.springer.com/chapter/10.1007/978-981-95-5294-8_19#citeas)
