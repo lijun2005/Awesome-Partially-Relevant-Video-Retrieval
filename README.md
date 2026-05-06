@@ -15,6 +15,9 @@ A paper list of partially relevant video retrieval.
 - [2022](#2022)
 
 ## 2026
+- `ICML 2026` 🤗 Revisiting Uncertainty: On Evidential Learning for Partially Relevant Video Retrieval
+  [[Paper]](https://arxiv.org/abs/2604.03653) [[Code]](https://github.com/lijun2005/CVPR26-DreamPRVR)
+  
 - `CVPR 2026` 🤗 Imagine Before Concentration: Diffusion-Guided Registers Enhance Partially Relevant Video Retrieval
   [[Paper]](https://arxiv.org/abs/2604.03653) [[Code]](https://github.com/lijun2005/CVPR26-DreamPRVR)
 
