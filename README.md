@@ -33,8 +33,8 @@ A paper list of partially relevant video retrieval.
 - `ICASSP 2026`  Text Semantics-Guided Dual-Teacher Knowledge Distillation for Partially Relevant Video Retrieval
   [[Paper]](https://ieeexplore.ieee.org/abstract/document/11464179)
   
-  - `ICASSP 2026` Caption and Audio-Guided Video Representation Learning with Gated Attention for Partially Relevant Video Retrieval
-  [[Paper]](https://ieeexplore.ieee.org/abstract/document/11463517) [[Code]](https://github.com/LexingtonJd/CAVIGATE)
+ - `ICASSP 2026` Caption and Audio-Guided Video Representation Learning with Gated Attention for Partially Relevant Video Retrieval
+ [[Paper]](https://ieeexplore.ieee.org/abstract/document/11463517) [[Code]](https://github.com/LexingtonJd/CAVIGATE)
 
 - `EAAI 2026` Cross-query contextual clues dynamic enhancement for partially relevant video retrieval
   [[Paper]](https://www.sciencedirect.com/science/article/pii/S0952197626008869)  
