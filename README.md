@@ -24,6 +24,8 @@ A paper list of partially relevant video retrieval.
 - `TIP 2026`  Bidirectional Cross-Modal Collaborative Alignment via Semantic-Guided Visual Embeddings for Partially Relevant Video Retrieval 
   [[Paper]](https://ieeexplore.ieee.org/abstract/document/11370453)  [[Code]](https://github.com/cyanlll/BOA)
 
+- `ACMMM 2026` CurvSpec: Adaptive Multi-Curvature Learning for Partial Relevant Video Retrieval [todo]
+
 - `AAAI 2026`  A3PRVR: Action-and-object Aware Alignment for Partially Relevant Video Retrieval 
   [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/37271)  [[Code]](https://github.com/chuanshen-chen/A3PRVR)
 
