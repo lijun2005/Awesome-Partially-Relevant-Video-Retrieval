@@ -26,6 +26,8 @@ A paper list of partially relevant video retrieval.
 
 - `ACMMM 2026` CurvSpec: Adaptive Multi-Curvature Learning for Partial Relevant Video Retrieval [todo]
 
+- `EMNLP 2026` Intrinsic Temporal Adaptation of CLIP for Partially Relevant Video Retrieval   [[Paper]](https://arxiv.org/pdf/2609.04800)  [[Code]](https://github.com/hynnsk/ITA)
+
 - `AAAI 2026`  A3PRVR: Action-and-object Aware Alignment for Partially Relevant Video Retrieval 
   [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/37271)  [[Code]](https://github.com/chuanshen-chen/A3PRVR)
 
@@ -46,6 +48,8 @@ A paper list of partially relevant video retrieval.
  
 - `CCF NCCA 2026` Dual-Grained Alignment with Dynamic Clip Modeling for Partially Relevant Video Retrieval
   [[Paper]](https://link.springer.com/chapter/10.1007/978-981-95-5294-8_19#citeas)
+
+- `Arxiv Preprint` Concentrate After Imagination: Text-Conditioned Evidence Grounding for Partially Relevant Video Retrieval [[Paper]](https://arxiv.org/pdf/2609.08999)
 
 
 ## 2025
